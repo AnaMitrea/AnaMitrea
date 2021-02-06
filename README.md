@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me
-
-Hi there 👋
+# Hi there 👋
 
 # How to reach me
 
