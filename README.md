@@ -2,12 +2,12 @@
 
 # Social Media
 
-<a href = "https://www.instagram.com/anne_mojo/">
-    <img src = "Social Media Logos/Instagram.png" width = "auto" height = "50px" />
-</a>
-
 <a href = "https://www.facebook.com/anneemojo">
     <img src = "Social Media Logos/Facebook.png" width = "auto" height = "50px" />
+</a>
+
+<a href = "https://www.instagram.com/anne_mojo/">
+    <img src = "Social Media Logos/Instagram.png" width = "auto" height = "50px" />
 </a>
 
 <a href = "https://twitter.com/AnaMitrea">
@@ -26,7 +26,7 @@
 
 # My Personal Projects
 
-<a href = "https://github.com/AnneeMojo/Proiect-IP-Biblis">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnneeMojo&repo=Proiect-IP-Biblis&theme=tokyonight&hide_border" align = "center" />
+<a href = "https://github.com/AnneeMojo/BibLis">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnneeMojo&repo=BibLis&theme=tokyonight&hide_border" align = "center" />
 </a>
 
