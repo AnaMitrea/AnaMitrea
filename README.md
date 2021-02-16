@@ -29,4 +29,3 @@
 <a href = "https://github.com/AnneeMojo/BibLis">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnneeMojo&repo=BibLis&theme=tokyonight&hide_border" align = "center" />
 </a>
-
