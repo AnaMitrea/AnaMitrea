@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# How to reach me
+# Social Media
 
 <a href = "https://www.instagram.com/anne_mojo/">
     <img src = "Social Media Logos/Instagram.png" width = "auto" height = "50px" />
@@ -14,7 +14,7 @@
     <img src = "Social Media Logos/Twitter.png" width = "auto" height = "50px" />
 </a>
 
-# Stats
+# My Stats
 
 <a href = "https://github.com/AnneeMojo?tab=repositories">
   <img src = "https://github-readme-stats.vercel.app/api?username=AnneeMojo&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align = "center" />
