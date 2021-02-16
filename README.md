@@ -10,6 +10,10 @@
     <img src = "Social Media Logos/Facebook.png" width = "auto" height = "50px" />
 </a>
 
+<a href = "https://twitter.com/AnaMitrea">
+    <img src = "Social Media Logos/Twitter.png" width = "auto" height = "50px" />
+</a>
+
 # Stats
 
 <a href = "https://github.com/AnneeMojo?tab=repositories">
