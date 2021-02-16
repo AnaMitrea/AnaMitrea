@@ -17,9 +17,13 @@
 </a>
 
 <a href = "https://github.com/AnneeMojo?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnneeMojo&langs_count=5&theme=tokyonight&layout=compact&card_width=270" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnneeMojo&langs_count=10&theme=tokyonight&layout=compact&card_width=270" align = "center" />
 </a>
 
+# My Personal Projects
 
+<a href = "https://github.com/AnneeMojo/Proiect-IP-Biblis">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnneeMojo&repo=Proiect-IP-Biblis&theme=tokyonight&hide_border" align = "center" />
+</a>
 
 
