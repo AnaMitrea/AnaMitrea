@@ -20,6 +20,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=AnaMitrea&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align = "center" />
 </a>
 
+<a href = "https://github.com/AnaMitrea?tab=repositories">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMitrea&langs_count=10&count_private=true&theme=tokyonight&layout=compact&card_width=270" align = "center" />
+</a>
 
 # My Personal Projects
 
