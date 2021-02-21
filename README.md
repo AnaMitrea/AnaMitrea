@@ -16,7 +16,7 @@
 
 # My Stats
 
-<a href = "https://github.com/AnaMitrea?tab=repositories">
+
   <img src = "https://github-readme-stats.vercel.app/api?username=AnaMitrea&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align = "center" />
 </a>
 
