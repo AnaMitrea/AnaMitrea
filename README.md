@@ -1,19 +1,5 @@
 # Hi there 👋
 
-# Social Media
-
-<a href = "https://www.facebook.com/anneemojo">
-    <img src = "Social Media Logos/Facebook.png" width = "auto" height = "50px" />
-</a>
-
-<a href = "https://www.instagram.com/anne_mojo/">
-    <img src = "Social Media Logos/Instagram.png" width = "auto" height = "50px" />
-</a>
-
-<a href = "https://twitter.com/AnaMitrea">
-    <img src = "Social Media Logos/Twitter.png" width = "auto" height = "50px" />
-</a>
-
 # My Stats
 
 <a href = "https://github.com/AnaMitrea?tab=repositories">
