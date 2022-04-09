@@ -14,8 +14,8 @@
 # My Personal Projects
 
 
-<a href = "https://github.com/AnaMitrea/LFAC-ProgrammingLanguage">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=LFAC-ProgrammingLanguage&theme=tokyonight&hide_border" align = "center" />
+<a href = "https://github.com/AnaMitrea/AnDa">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=AnDa&theme=tokyonight&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/AnaMitrea/AppRepository">
