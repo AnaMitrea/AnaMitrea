@@ -13,16 +13,20 @@
 
 # My Personal Projects
 
-<a href = "https://github.com/AnaMitrea/Vigenere-Cipher">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=Vigenere-Cipher&theme=tokyonight&hide_border" align = "center" />
-</a>
-
 <a href = "https://github.com/AnaMitrea/AnDa">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=AnDa&theme=tokyonight&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/AnaMitrea/AppRepository">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=AppRepository&theme=tokyonight&hide_border" align = "center" />
+</a>
+
+<a href = "https://github.com/AnaMitrea/Vigenere-Cipher">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=Vigenere-Cipher&theme=tokyonight&hide_border" align = "center" />
+</a>
+
+<a href = "https://github.com/AnaMitrea/PseudoRandomnessGenerators">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=PseudoRandomnessGenerators&theme=tokyonight&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/AnaMitrea/BibLis">
