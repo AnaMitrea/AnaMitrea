@@ -25,8 +25,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=VigenereCipher&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AnaMitrea/PseudoRandomnessGenerators">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=PseudoRandomnessGenerators&theme=tokyonight&hide_border" align = "center" />
+<a href = "https://github.com/AnaMitrea/PseudoRandomGenerators">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=PseudoRandomGenerators&theme=tokyonight&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/AnaMitrea/BibLis">
