@@ -17,8 +17,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=AnDa&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AnaMitrea/AppRepository">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=AppRepository&theme=tokyonight&hide_border" align = "center" />
+<a href = "https://github.com/AnaMitrea/MyAppRepository">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=MyAppRepository&theme=tokyonight&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/AnaMitrea/Vigenere-Cipher">
