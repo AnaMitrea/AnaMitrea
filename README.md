@@ -21,8 +21,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=MyAppRepository&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AnaMitrea/Vigenere-Cipher">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=Vigenere-Cipher&theme=tokyonight&hide_border" align = "center" />
+<a href = "https://github.com/AnaMitrea/VigenereCipher">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=VigenereCipher&theme=tokyonight&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/AnaMitrea/PseudoRandomnessGenerators">
