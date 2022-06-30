@@ -13,6 +13,10 @@
 
 # My Personal Projects
 
+<a href = "https://github.com/AnaMitrea/SoDrO">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=SoDrO&theme=tokyonight&hide_border" align = "center" />
+</a>
+
 <a href = "https://github.com/AnaMitrea/AnDa">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=AnDa&theme=tokyonight&hide_border" align = "center" />
 </a>
@@ -36,7 +40,6 @@
 <a href = "https://github.com/AnaMitrea/BibLis">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=BibLis&theme=tokyonight&hide_border" align = "center" />
 </a>
-
 
 <a href = "https://github.com/AnaMitrea/ASII-Task-Introductiv">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=ASII-Task-Introductiv&theme=tokyonight&hide_border" align = "center" />
