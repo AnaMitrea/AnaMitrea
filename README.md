@@ -17,6 +17,10 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=SoDrO&theme=tokyonight&hide_border" align = "center" />
 </a>
 
+<a href = "https://github.com/AnaMitrea/StudentAccomodation">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=StudentAccomodation&theme=tokyonight&hide_border" align = "center" />
+</a>
+
 <a href = "https://github.com/AnaMitrea/AnDa">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AnaMitrea&repo=AnDa&theme=tokyonight&hide_border" align = "center" />
 </a>
