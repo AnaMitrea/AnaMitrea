@@ -13,6 +13,14 @@
 
 # My Personal Projects
 
+<a href = "https://github.com/AnaMitrea/Papas-Pizzeria-VR">
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=Papas-Pizzeria-VR&theme=tokyonight&hide_border" align = "center" />
+</a>
+
+<a href = "https://github.com/AnaMitrea/ArchiveCracker">
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=ArchiveCracker&theme=tokyonight&hide_border" align = "center" />
+</a>
+
 <a href = "https://github.com/AnaMitrea/SoDrO">
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=SoDrO&theme=tokyonight&hide_border" align = "center" />
 </a>
@@ -37,14 +45,7 @@
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=VigenereCipher&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AnaMitrea/PseudoRandomGenerators">
-  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=PseudoRandomGenerators&theme=tokyonight&hide_border" align = "center" />
-</a>
-
 <a href = "https://github.com/AnaMitrea/BibLis">
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=BibLis&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AnaMitrea/ASII-Task-Introductiv">
-  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=ASII-Task-Introductiv&theme=tokyonight&hide_border" align = "center" />
-</a>
