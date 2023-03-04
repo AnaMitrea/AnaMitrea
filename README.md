@@ -37,10 +37,6 @@
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=MyAppRepository&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/AnaMitrea/RSA">
-  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=RSA&theme=tokyonight&hide_border" align = "center" />
-</a>
-
 <a href = "https://github.com/AnaMitrea/VigenereCipher">
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=VigenereCipher&theme=tokyonight&hide_border" align = "center" />
 </a>
