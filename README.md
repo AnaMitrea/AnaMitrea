@@ -27,8 +27,8 @@ Project Demo: https://youtu.be/4mlVLAEJvh4
 
 # My Personal Projects
 
-<a href = "https://github.com/AnaMitrea/Papas-Pizzeria-VR">
-  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=Papas-Pizzeria-VR&theme=tokyonight&hide_border" align = "center" />
+<a href = "https://github.com/AnaMitrea/IMR-Papas-Pizzeria-VR">
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=IMR-Papas-Pizzeria-VR&theme=tokyonight&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/AnaMitrea/ArchiveCracker">
