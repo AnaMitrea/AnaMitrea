@@ -11,6 +11,18 @@
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnaMitrea&langs_count=10&count_private=true&theme=tokyonight&layout=compact&card_width=270" align = "center" />
 </a>
 
+# My Bachelor's Degree Project
+
+<a href = "https://github.com/AnaMitrea/Librarius-Bachelors-Degree-Frontend">
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=Librarius-Bachelors-Degree-Frontend&theme=tokyonight&hide_border" align = "center" />
+</a>
+
+<a href = "https://github.com/AnaMitrea/Librarius-Bachelors-Degree-Backend">
+  <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=Librarius-Bachelors-Degree-Backend&theme=tokyonight&hide_border" align = "center" />
+</a>
+
+Project Demo: https://youtu.be/4mlVLAEJvh4
+
 # My Personal Projects
 
 <a href = "https://github.com/AnaMitrea/Papas-Pizzeria-VR">
