@@ -13,6 +13,9 @@
 
 # My Bachelor's Degree Project
 
+Project Demo: https://youtu.be/4mlVLAEJvh4
+<br>
+
 <a href = "https://github.com/AnaMitrea/Librarius-Bachelors-Degree-Frontend">
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=Librarius-Bachelors-Degree-Frontend&theme=tokyonight&hide_border" align = "center" />
 </a>
@@ -21,7 +24,6 @@
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnaMitrea&repo=Librarius-Bachelors-Degree-Backend&theme=tokyonight&hide_border" align = "center" />
 </a>
 
-Project Demo: https://youtu.be/4mlVLAEJvh4
 
 # My Personal Projects
 
